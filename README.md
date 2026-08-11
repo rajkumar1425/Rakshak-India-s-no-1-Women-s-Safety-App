@@ -8,11 +8,11 @@
 
 ---
 
-## 📥 Download Latest APK (v1.1.0 - Free & Secure)
+## 📥 Download Latest APK (v1.3.0 - Free & Secure)
 
 Looking for the direct APK download? You can download the latest version of Rakshak v1.1.0 securely and directly:
 
-👉 **[Download Rakshak v1.1.0 APK Now](https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases/download/v1.1.0/app-arm64-v8a-release.apk)**
+👉 **[Download Rakshak v1.3.0 APK Now](https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases/download/1.3.0/app-armeabi-v7a-release.apk)**
 
 ---
 
@@ -30,7 +30,7 @@ Looking for the direct APK download? You can download the latest version of Raks
 ## 📱 How to Install on Android
 
 1. Click on the direct download link above.
-2. Download the `app-arm64-v8a-release.apk` file.
+2. Download the `app-arm64-v7a-release.apk` file.
 3. Tap on the downloaded file and select **Install Anyway** (safe and verified open-source code).
 4. Open the app, set up your emergency contacts, and you are ready to go!
 
